@@ -157,6 +157,3 @@ Data cleaning and exploratory data analysis on an Amazon sales dataset with 10,0
 - Multi-column `GROUP BY` — Category and sub-category analysis
 
 ---
-
-## 📬 Contact
-- **GitHub:** [Miracle-Abu](https://github.com/Miracle-Abu)
